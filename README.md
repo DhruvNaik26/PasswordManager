@@ -1,2 +1,2 @@
 # PasswordManager
-This is the repo for Password manager in ython
+This is the repo for Password manager in python
