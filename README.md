@@ -4,9 +4,6 @@ this changes were made on laptop and willbe commited to the repositry
 this change was added in GitHub
 This change was made in Main branch
 This Change was made in Master Branch
-<<<<<<< HEAD
 
 Hello my name is Dhruv(Main)
-=======
 Hello guys my name is dhruv(Master)
->>>>>>> Master
