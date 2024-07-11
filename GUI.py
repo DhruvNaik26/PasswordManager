@@ -1,5 +1,5 @@
 # This code is fr experiment purpose where we will be testing different gui's is python for the project
-from tkinter import *  # Import everything from tkinter 
+from tkinter import *  # type: ignore # Import everything from tkinter 
 import customtkinter as ck # Import customtkinter for enhanced tkinter widgets
 
 # Set the appearance mode and default color theme
