@@ -1,9 +1,4 @@
 # PasswordManager
-This is the repo for Password manager in python
-this changes were made on laptop and willbe commited to the repositry 
-this change was added in GitHub
-This change was made in Main branch
-This Change was made in Master Branch
 
-Hello my name is Dhruv(Main)
-Hello guys my name is dhruv(Master)
+This is the repo for Password manager in python
+On 12/07/24 00:53 we created a new file named GUI.py where we will be testing differnet gui for the project
